@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# WebDriverIO configuration files
+wdio.conf.js
+wdio.conf.*.js
+
+# Logs and reports
+logs/
+allure-report/
+junit-report/
+
+# Temporary files
+*.log
+*.txt
+
+# Environment files (if used)
+.env
+
+# IDE-specific files (optional)
+.vscode/
+.idea/
+
+# OS-specific files (optional)
+.DS_Store
+Thumbs.db
+
+# Personal configuration files (optional)
+config.json
+
